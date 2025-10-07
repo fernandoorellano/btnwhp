@@ -16,7 +16,7 @@ constructor(private router: Router){}
 
 
   enviar(){
-    console.log("hola");
+    console.log("holaa");
     window.open(this.url, "_blank");
   }
 
